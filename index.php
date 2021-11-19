@@ -95,7 +95,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS º 2021
+        COD3R & ALUNOS º <?= date("Y");?>
     </footer>
 </body>
 </html>
