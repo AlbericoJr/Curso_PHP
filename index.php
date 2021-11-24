@@ -33,6 +33,7 @@
                     <h3>Tipos</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=tipos&file=int">Tipo Inteiro</a></li>
+                        <li><a href="exercicios.php?dir=tipos&file=float">Tipo Float</a></li>
                     </ul>
                 </div>
             </nav>
