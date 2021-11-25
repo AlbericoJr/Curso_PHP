@@ -41,6 +41,12 @@
                         <li><a href="exercicios.php?dir=tipos&file=conversoes">Conversões</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=tipos&file=int">Tipo Inteiro</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
