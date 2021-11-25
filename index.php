@@ -37,6 +37,7 @@
                         <li><a href="exercicios.php?dir=tipos&file=desafio_procedencia">Desafio Procedencia</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=string">Tipo String</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=desafio_string">Desafio String</a></li>
+                        <li><a href="exercicios.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
                     </ul>
                 </div>
             </nav>
