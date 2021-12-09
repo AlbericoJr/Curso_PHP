@@ -44,8 +44,9 @@
                 <div class="modulo azul">
                     <h3>variaveis</h3>
                     <ul>
-                        <li><a href="exercicios.php?dir=variaveis&file=basico">variaveis</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=basico">Variaveis</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
                     </ul>
                 </div>
             </nav>
