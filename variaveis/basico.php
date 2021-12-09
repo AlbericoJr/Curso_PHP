@@ -19,5 +19,8 @@ unset($somaDosNumeros);
 echo '<br>';
 var_dump($somaDosNumeros);
 
+$variavel = 10;
+echo '<br>' . $variavel;
+
 $variavel = "Agora sou uma string";
 echo '<br>'. $variavel;
