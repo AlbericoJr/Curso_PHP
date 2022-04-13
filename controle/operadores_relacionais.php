@@ -23,3 +23,25 @@ if($idade < 18){
 }else{
     echo"Terceira idade = $idade anos!";
 }
+
+echo'<p>Spaceship</p><hr>';
+var_dump(5 <=> 3);// Se o primeiro operando for + vem 1
+var_dump(50 <=> 50);// Se os operadores forem = vem 0
+var_dump(5 <=> 50);// Se o segundo operando for + vem -1
+
+echo '<p>Valores pode ser V ou F</p><hr>';
+var_dump(!!5);
+var_dump(!!0);
+var_dump(!!"");
+var_dump(!!" ");
+?>
+
+<style>
+    p{
+        margin-bottom: 0px;
+    }
+
+    hr{
+        margin-top: 0px;
+    }
+</style>
