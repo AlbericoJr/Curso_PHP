@@ -1,12 +1,12 @@
 <div class="titulo">Operadores Lógicos</div>
 
 <?php
-echo"<p>Negação Logica</p><hr>";
+echo"<p class='divisao'>Negação Logica</p><hr>";
 var_dump(true);
 echo '<br>';
 var_dump(!!true);//not
 
-echo"<p>Tabela verdade 'AND' (E)</p><hr>";
+echo"<p class='divisao'>Tabela verdade 'AND' (E)</p><hr>";
 var_dump(true && true);
 var_dump(true && false);
 var_dump(false && true);
@@ -19,7 +19,7 @@ var_dump(true and false);
 var_dump(false and true);
 var_dump(false and false);
 
-echo"<p>Tabela verdade 'OR' (OU)</p><hr>";
+echo"<p class='divisao'>Tabela verdade 'OR' (OU)</p><hr>";
 var_dump(true || true);
 var_dump(true || false);
 var_dump(false || true);
@@ -32,7 +32,7 @@ var_dump(true or false);
 var_dump(false or true);
 var_dump(false or false);
 
-echo"<p>Tabela verdade 'XOR' (OU Exclusivo)</p><hr>";
+echo"<p class='divisao'>Tabela verdade 'XOR' (OU Exclusivo)</p><hr>";
 var_dump(true xor true);
 var_dump(true xor false);
 var_dump(false xor true);
@@ -44,15 +44,23 @@ var_dump(true != true);
 var_dump(true != false);
 var_dump(false != true);
 var_dump(false != false);
-?>
 
-<style>
-    p{
-        margin-bottom: 0px;
-        font-weight: bold;
-    }
+echo"<p class='divisao'>Exemplo</p><hr>";
+$idade = 65;
+$sexo = 'M';
 
-    hr{
-        margin-top: 0px;
-    }
-</style>
+$pagouPrevidencia = true;
+$criterioHomem = ($idade >= 65 && $sexo === 'M');
+$criterioMulher = ($idade >= 60 && $sexo ==='F');
+$atingiuCriterio = $criterioHomem || $criterioMulher;
+$podeSeAposentar = $pagouPrevidencia && $atingiuCriterio;
+echo "Pode se aposentar -> $podeSeAposentar. <br>";
+
+
+if($idade >= 60 && $sexo === 'F'){
+    echo"Pode se aposenar -> $sexo";
+}elseif ($idade >= 65 && $sexo ==='M'){
+    echo"Pode se aposentar -> $sexo";
+}else{
+    echo'Vai ter que trabalhar mais um pouco...';
+}
