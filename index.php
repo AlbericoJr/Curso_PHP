@@ -60,6 +60,7 @@
                         <li><a href="exercicios.php?dir=controle&file=if_else">If Else</a></li>
                         <li><a href="exercicios.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
                         <li><a href="exercicios.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                        <li><a href="exercicios.php?dir=controle&file=operadores_logicos">Operadores Lógicos</a></li>
                     </ul>
                 </div>
             </nav>
