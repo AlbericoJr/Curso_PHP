@@ -70,8 +70,9 @@
                 <div class="modulo laranja">
                     <h3>5. Array</h3>
                     <ul>
-                        <li><a href="exercicios.php?dir=arrays&file=basico">Array</a></li>
-                        <li><a href="exercicios.php?dir=arrays&file=mapa">Mapa</a></li>
+                        <li><a href="exercicios.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicios.php?dir=array&file=mapa">Mapa</a></li>
+                        <li><a href="exercicios.php?dir=array&file=desafio_index">Desafio índex</a></li>
                     </ul>
                 </div>
             </nav>
