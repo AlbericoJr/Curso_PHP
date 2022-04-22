@@ -73,6 +73,7 @@
                         <li><a href="exercicios.php?dir=array&file=basico">Array</a></li>
                         <li><a href="exercicios.php?dir=array&file=mapa">Mapa</a></li>
                         <li><a href="exercicios.php?dir=array&file=desafio_index">Desafio índex</a></li>
+                        <li><a href="exercicios.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
                     </ul>
                 </div>
             </nav>
