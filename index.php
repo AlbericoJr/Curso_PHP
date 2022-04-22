@@ -71,6 +71,7 @@
                     <h3>5. Array</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=arrays&file=basico">Array</a></li>
+                        <li><a href="exercicios.php?dir=arrays&file=mapa">Mapa</a></li>
                     </ul>
                 </div>
             </nav>
