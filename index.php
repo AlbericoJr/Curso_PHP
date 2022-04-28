@@ -83,6 +83,13 @@
                         <li><a href="exercicios.php?dir=array&file=comparacao">Comparação entre Array</a></li>
                     </ul>
                 </div>
+                <div class="modulo verde escuro">
+                    <h3>6. Controle</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=array&file=basico">Laço For</a></li>
+                        
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
