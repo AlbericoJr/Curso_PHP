@@ -79,6 +79,7 @@
                         <li><a href="exercicios.php?dir=array&file=multi">Multidimensionais</a></li>
                         <li><a href="exercicios.php?dir=array&file=constantes">Array Constantes</a></li>
                         <li><a href="exercicios.php?dir=array&file=get">$_GET</a></li>
+                        <li><a href="exercicios.php?dir=array&file=post">$_POST</a></li>
                     </ul>
                 </div>
             </nav>
