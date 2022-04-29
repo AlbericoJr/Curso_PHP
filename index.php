@@ -84,9 +84,9 @@
                     </ul>
                 </div>
                 <div class="modulo verde escuro">
-                    <h3>6. Controle</h3>
+                    <h3>6. Repetições</h3>
                     <ul>
-                        <li><a href="exercicios.php?dir=array&file=basico">Laço For</a></li>
+                        <li><a href="exercicios.php?dir=repeticoes&file=for">Laço For</a></li>
                         
                     </ul>
                 </div>
