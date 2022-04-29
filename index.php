@@ -87,6 +87,7 @@
                     <h3>6. Repetições</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=repeticoes&file=for">Laço For</a></li>
+                        <li><a href="exercicios.php?dir=repeticoes&file=desafio_for">Desafio Laço For</a></li>
                         
                     </ul>
                 </div>
