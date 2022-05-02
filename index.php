@@ -91,6 +91,7 @@
                         <li><a href="exercicios.php?dir=repeticoes&file=foreach">Foreach</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=break-continue">Break / Continue</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=impressao">Desafio Impressão</a></li>
+                        <li><a href="exercicios.php?dir=repeticoes&file=while">While / Do while</a></li>
                     </ul>
                 </div>
             </nav>
