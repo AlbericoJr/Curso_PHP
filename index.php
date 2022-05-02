@@ -92,6 +92,7 @@
                         <li><a href="exercicios.php?dir=repeticoes&file=break-continue">Break / Continue</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=impressao">Desafio Impressão</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=while">While / Do while</a></li>
+                        <li><a href="exercicios.php?dir=repeticoes&file=desafio_tabela">Desafio Tebela #01</a></li>
                     </ul>
                 </div>
             </nav>
