@@ -83,7 +83,7 @@
                         <li><a href="exercicios.php?dir=array&file=comparacao">Comparação entre Array</a></li>
                     </ul>
                 </div>
-                <div class="modulo verde escuro">
+                <div class="modulo verde-escuro">
                     <h3>6. Repetições</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=repeticoes&file=for">Laço For</a></li>
@@ -94,6 +94,12 @@
                         <li><a href="exercicios.php?dir=repeticoes&file=while">While / Do while</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=desafio_tabela">Desafio Tebela #01</a></li>
                         <li><a href="exercicios.php?dir=repeticoes&file=desafio_tabela02">Desafio Tebela #02</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelhor-escuro">
+                    <h3>7. Funções</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
                     </ul>
                 </div>
             </nav>
