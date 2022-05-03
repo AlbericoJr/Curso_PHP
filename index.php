@@ -100,6 +100,7 @@
                     <h3>7. Funções</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                        <li><a href="exercicios.php?dir=funcoes&file=args_retorno">Argumentos e Retorno</a></li>
                     </ul>
                 </div>
             </nav>
