@@ -110,6 +110,7 @@
                         <li><a href="exercicios.php?dir=funcoes&file=recursividade">Recursividade</a></li>
                         <li><a href="exercicios.php?dir=funcoes&file=desafio_recursiva">Desafio Recursividade</a></li>
                         <li><a href="exercicios.php?dir=funcoes&file=retornando_funcao">Retornando uma Função</a></li>
+                        <li><a href="exercicios.php?dir=funcoes&file=map_filter">Map e Filter</a></li>
                     </ul>
                 </div>
             </nav>
