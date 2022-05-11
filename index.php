@@ -113,6 +113,13 @@
                         <li><a href="exercicios.php?dir=funcoes&file=map_filter">Map e Filter</a></li>
                     </ul>
                 </div>
+
+                <div class="modulo azul-escuro">
+                    <h3>8. Orientação a Objetos</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=classe_objeto">Classe vs Objeto</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
