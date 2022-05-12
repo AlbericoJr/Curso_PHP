@@ -118,7 +118,7 @@
                     <h3>8. Orientação a Objetos</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=classe">Primeira Classe</a></li>
-                        <li><a href="exercicios.php?dir=orientacao_objetos&file=membros">Membros</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=desafio_classe">Desafio Classe</a></li>
                     </ul>
                 </div>
             </nav>
