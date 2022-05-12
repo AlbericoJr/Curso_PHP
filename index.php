@@ -117,7 +117,8 @@
                 <div class="modulo azul-escuro">
                     <h3>8. Orientação a Objetos</h3>
                     <ul>
-                        <li><a href="exercicios.php?dir=orientacao_objetos&file=classe_objeto">Classe vs Objeto</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=classe">Primeira Classe</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=membros">Membros</a></li>
                     </ul>
                 </div>
             </nav>
