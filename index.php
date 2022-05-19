@@ -120,6 +120,7 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=classe">Primeira Classe</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=desafio_classe">Desafio Classe</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=heranca">Herança</a></li>
                     </ul>
                 </div>
             </nav>
