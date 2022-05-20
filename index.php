@@ -122,6 +122,7 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=heranca">Herança</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=md_acesso">Modificadores de Acesso "Visibilidade"</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=static">Membros Estáticos</a></li>
                     </ul>
                 </div>
             </nav>
