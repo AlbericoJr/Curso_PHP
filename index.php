@@ -128,6 +128,7 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=desafio_erros">Desafio 7 Erros</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=final">Modificador Final</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=traits01">Traits #01</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=traits02">Traits #02</a></li>
                     </ul>
                 </div>
             </nav>
