@@ -125,6 +125,7 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=static">Membros Estáticos</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=interface">Interface</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=abstrata">Classe Abstrata</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=desafio_erros">Desafio 7 Erros</a></li>
                     </ul>
                 </div>
             </nav>
