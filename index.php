@@ -130,6 +130,7 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=traits01">Traits #01</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=traits02">Traits #02</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=magic_metodos">Métodos Mágicos</a></li>
+                        <li><a href="exercicios.php?dir=orientacao_objetos&file=polimorfismo">Polimorfismo</a></li>
                     </ul>
                 </div>
             </nav>
