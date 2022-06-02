@@ -9,11 +9,7 @@ class Pessoa{
         echo 'Pessoa Criada! <br>';
     }
 
-    function __destruct(){
-        echo 'Pessoa diz; Tchau!';
-    }
-
     public function apresentar(){
-        echo "{$this->nome}, {$this->idade} anos";
+        echo "{$this->nome}, {$this->idade} anos ";
     }
 }
