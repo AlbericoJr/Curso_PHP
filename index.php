@@ -142,6 +142,7 @@
                         <li><a href="exercicios.php?dir=includes&file=include_funcao">Include em Função</a></li>
                         <li><a href="exercicios.php?dir=includes&file=include_require">Include vs Require</a></li>
                         <li><a href="exercicios.php?dir=includes&file=include_once">Include Once</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=desafio">Desafio do Módulo</a></li>
                         
                     </ul>
                 </div>
