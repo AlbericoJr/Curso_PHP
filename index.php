@@ -96,6 +96,7 @@
                         <li><a href="exercicios.php?dir=repeticoes&file=desafio_tabela02">Desafio Tebela #02</a></li>
                     </ul>
                 </div>
+
                 <div class="modulo vermelhor-escuro">
                     <h3>7. Funções</h3>
                     <ul>
@@ -131,6 +132,14 @@
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=traits02">Traits #02</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=magic_metodos">Métodos Mágicos</a></li>
                         <li><a href="exercicios.php?dir=orientacao_objetos&file=polimorfismo">Polimorfismo</a></li>
+                    </ul>
+                </div>
+
+                <div class="modulo roxo-escuro">
+                    <h3>9. Includes</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=includes&file=include">Include</a></li>
+                        
                     </ul>
                 </div>
             </nav>
