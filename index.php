@@ -139,6 +139,7 @@
                     <h3>9. Includes</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=includes&file=include">Include</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=include_funcao">Include em Função</a></li>
                         
                     </ul>
                 </div>
