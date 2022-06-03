@@ -126,4 +126,11 @@
             
         </ul>
     </div>
+
+    <div class="modulo laranja-escuro">
+        <h3>10. Namespace</h3>
+        <ul>
+            <li><a href="exercicios.php?dir=namespace&file=basico">Exemplo Básico</a></li>
+        </ul>
+    </div>
 </nav>
