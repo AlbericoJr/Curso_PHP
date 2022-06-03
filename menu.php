@@ -135,4 +135,12 @@
             <li><a href="exercicios.php?dir=namespace&file=use_as">Use/As</a></li>
         </ul>
     </div>
+
+    <div class="modulo laranja-escuro">
+        <h3>11. Tratamento de Erro</h3>
+        <ul>
+            <li><a href="exercicios.php?dir=namespace&file=basico">Exemplo Básico</a></li>
+            
+        </ul>
+    </div>
 </nav>
