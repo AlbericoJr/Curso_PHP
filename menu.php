@@ -132,6 +132,7 @@
         <ul>
             <li><a href="exercicios.php?dir=namespace&file=basico">Exemplo Básico</a></li>
             <li><a href="exercicios.php?dir=namespace&file=sub_namespace">Sub-namespace</a></li>
+            <li><a href="exercicios.php?dir=namespace&file=use_as">Use/As</a></li>
         </ul>
     </div>
 </nav>
