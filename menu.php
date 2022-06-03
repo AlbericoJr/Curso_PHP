@@ -131,6 +131,7 @@
         <h3>10. Namespace</h3>
         <ul>
             <li><a href="exercicios.php?dir=namespace&file=basico">Exemplo Básico</a></li>
+            <li><a href="exercicios.php?dir=namespace&file=sub_namespace">Sub-namespace</a></li>
         </ul>
     </div>
 </nav>
