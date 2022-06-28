@@ -146,4 +146,12 @@
             
         </ul>
     </div>
+
+    <div class="modulo verde">
+        <h3>12. Sessão & Cookie</h3>
+        <ul>
+            <li><a href="exercicios.php?dir=sessao_cookie&file=sessao">Sessão #01</a></li>
+            
+        </ul>
+    </div>
 </nav>
