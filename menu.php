@@ -136,10 +136,10 @@
         </ul>
     </div>
 
-    <div class="modulo laranja-escuro">
+    <div class="modulo azul">
         <h3>11. Tratamento de Erro</h3>
         <ul>
-            <li><a href="exercicios.php?dir=namespace&file=basico">Exemplo Básico</a></li>
+            <li><a href="exercicios.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
             
         </ul>
     </div>
