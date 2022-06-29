@@ -1,4 +1,8 @@
 <nav class="modulos">
+<div class="modulo azul">
+        <h3>13. API</h3>
+        <ul><li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+    </div>
     <div class="modulo vermelho">
         <h3>12. Sessão</h3>
         <ul>
