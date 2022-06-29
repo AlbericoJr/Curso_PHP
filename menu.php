@@ -151,6 +151,7 @@
         <h3>12. Sessão & Cookie</h3>
         <ul>
             <li><a href="exercicios.php?dir=sessao&file=basico_sessao">Sessão #01</a></li>
+            <li><a href="exercicios.php?dir=sessao&file=gerenciando_sessao">Gerenciamento de Sessão</a></li>
             
         </ul>
     </div>
