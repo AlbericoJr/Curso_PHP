@@ -1,7 +1,10 @@
 <nav class="modulos">
 <div class="modulo azul">
         <h3>13. API</h3>
-        <ul><li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+            <li><a href="exercicio.php?dir=api&file=datas_02">Datas #02</a></li>
+        </ul>
     </div>
     <div class="modulo vermelho">
         <h3>12. Sessão</h3>
