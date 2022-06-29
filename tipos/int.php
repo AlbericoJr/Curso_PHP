@@ -10,5 +10,5 @@ echo '<br>';
 echo PHP_INT_MAX, '<br>';
 echo PHP_INT_MIN, '<br>';
 echo 017, '<br>'; // Base octal
-echo 0b11000111001, '<br>'; //Base binária
-echo 0x11acf0; // Base hexa
+echo 0b11000111001, '<br>'; // Base binária
+echo 0x117acf0; // Base hexa

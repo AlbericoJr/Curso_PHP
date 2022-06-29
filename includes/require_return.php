@@ -8,6 +8,6 @@ echo "$variavelRetornada<br>";
 echo __DIR__ . '<br>';
 
 $valorRetorno2 = require(__DIR__ . '/return_nao_usado.php');
-//var_dump($valorRetorno2);
+// var_dump($valorRetorno2);
 echo "$valorRetorno2<br>";
 echo "$variavelDeclarada<br>";

@@ -12,24 +12,22 @@ echo '<br>';
 var_dump((float) 3);
 
 // float para int
-echo '<p>Float para Int</p>';
+echo '<p>Float para int</p>';
 var_dump((int) 6.8);
 echo '<br>';
 var_dump(intval(2.999));
 echo '<br>';
-var_dump(round(2.8));
-echo '<br>';
 var_dump((int) round(2.8));
 
-//operações com string
-echo '<p>String</p>';
+// operações com string
+echo '<p>Strings</p>';
 var_dump(3 + "2");
 echo '<br>';
 var_dump("3" + 2);
 echo '<br>';
 var_dump("3" . 2);
 echo '<br>', is_string("3" . 2);
-//echo '<br>', is_string("3" + 2);
+// echo '<br>', is_string("3" + 2);
 echo '<br>';
 var_dump(1 + "cinco");
 echo '<br>';

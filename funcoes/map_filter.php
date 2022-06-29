@@ -1,23 +1,22 @@
-<div class="titulo">Map e Filter</div>
+<div class="titulo">Map & Filter</div>
 
 <?php
 $notas = [5.8, 7.3, 9.8, 6.7];
 $notasFinais1 = [];
 
-foreach($notas as $nota){
+foreach($notas as $nota) {
     $notasFinais1[] = round($nota);
 }
 
 print_r($notasFinais1);
 
 echo '<br>';
-/**$notasFinais2 = array_map(round, $notas);
-print_r($notasFinais2);*/
+$notasFinais2 = array_map(round, $notas);
+print_r($notasFinais2);
 
 $apenasOsAprovados1 = [];
-
 foreach($notas as $nota) {
-    if($nota >= 7){
+    if($nota >= 7) {
         $apenasOsAprovados1[] = $nota;
     }
 }
@@ -39,5 +38,5 @@ function calculoLegal($nota) {
 }
 
 echo '<br>';
-$notaFinais3 = array_map(calculoLegal, $notas);
+$notasFinais3 = array_map(calculoLegal, $notas);
 print_r($notasFinais3);

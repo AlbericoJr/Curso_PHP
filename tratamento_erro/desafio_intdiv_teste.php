@@ -6,13 +6,13 @@ use function \Aritmetica\intdiv;
 
 try {
     echo intdiv(8, 3) . '<br>';
-} catch(\Aritmetica\NaoInteiroException $e){
+} catch(\Aritmetica\NaoInteiroException $e) {
     echo 'Resultado não é um número inteiro<br>';
 }
 
-try{
+try {
     echo intdiv(8, 0) . '<br>';
-}catch(DivisionByZeroError $e){
+} catch(DivisionByZeroError $e) {
     echo 'Divisão por zero<br>';
 }
 

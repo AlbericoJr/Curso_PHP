@@ -1,14 +1,14 @@
-*{
-    font-family: 'Oswald' sans-serif;
+* {
+    font-family: 'Oswald', sans-serif;
     box-sizing: border-box;
 }
 
-body{
+body {
     height: 100vh;
     margin: 0px;
     display: grid;
     grid-template-rows: 120px 60px 1fr 60px;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr;    
     grid-template-areas: 
         "cabecalho"
         "navegacao"
@@ -16,7 +16,7 @@ body{
         "rodape";
 }
 
-.cabecalho{
+.cabecalho {
     grid-area: cabecalho;
     background-color: #1867c0;
     color: white;
@@ -26,29 +26,29 @@ body{
     align-items: center;
     padding-bottom: 10px;
     z-index: 1;
-    box-shadow: 0px 4px 9px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 4px 9px -2px rgba(0,0,0,0.75);
 }
 
-.cabecalho > h1{
+.cabecalho > h1 {
     margin: 0px;
     font-weight: 300;
     font-size: 2.8rem;
 }
 
-.cabecalho > h2{
+.cabecalho > h2 {
     margin: 0px;
     font-weight: 200;
     font-size: 1.6rem;
 }
 
-.principal{
+.principal {
     grid-area: principal;
     height: calc(100vh - 240px);
     background-color: #f0f0f0;
     padding: 20px;
 }
 
-.conteudo{
+.conteudo {
     position: relative;
     height: 100%;
     overflow-y: scroll;
@@ -57,7 +57,7 @@ body{
     box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
 }
 
-.rodape{
+.rodape {
     grid-area: rodape;
     background-color: #fff;
     display: flex;
@@ -68,19 +68,19 @@ body{
     color: #444;
 }
 
-.modulos{
+.modulos {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
-.modulo{
+.modulo {
     flex-basis: 32%;
     margin-bottom: 20px;
     border-radius: 5px;
 }
 
-.modulo > h3{
+.modulo > h3 {
     margin: 0px;
     color: #fff;
     font-weight: 300;
@@ -89,64 +89,64 @@ body{
     background-color: #1867c0;
 }
 
-.modulo > ul{
+.modulo > ul {
     margin: 0px;
     padding: 10px;
     list-style: none;
 }
 
-.modulo > ul > li{
+.modulo > ul > li {
     padding: 7px;
     font-size: 1.2rem;
     cursor: pointer;
 }
 
-.modulo > ul > li > a{
+.modulo > ul > li > a {
     display: flex;
     text-decoration: none;
     color: #222;
 }
 
-.modulo > ul > li:hover{
-    background-color: #eee;
+.modulo > ul > li:hover {
+    background-color: #EEE;
 }
 
-.modulo.verde {border: 2px solid #4CAF50;}
-.modulo.verde > h3{background-color: #4CAF50;}
+.modulo.verde { border: 2px solid #4CAF50; }
+.modulo.verde > h3 { background-color: #4CAF50; }
 
-.modulo.vermelho {border: 2px solid #F44336;}
-.modulo.vermelho > h3{background-color: #F44336;}
+.modulo.vermelho { border: 2px solid #F44336; }
+.modulo.vermelho > h3 { background-color: #F44336; }
 
-.modulo.azul {border: 2px solid #2196F3;}
-.modulo.azul > h3{background-color: #2196F3;}
+.modulo.azul { border: 2px solid #2196F3; }
+.modulo.azul > h3 { background-color: #2196F3; }
 
-.modulo.roxo {border: 2px solid #9C27B0;}
-.modulo.roxo > h3{background-color: #9C27B0;}
+.modulo.roxo { border: 2px solid #9C27B0; }
+.modulo.roxo > h3 { background-color: #9C27B0; }
 
-.modulo.laranja {border: 2px solid #FF9800;}
-.modulo.laranja > h3{background-color: #FF9800;}
+.modulo.laranja { border: 2px solid #FF9800; }
+.modulo.laranja > h3 { background-color: #FF9800; }
 
-.modulo.verde-escuro {border: 2px solid #1B5E20;}
-.modulo.verde-escuro > h3{background-color: #1B5E20;}
+.modulo.verde-escuro { border: 2px solid #1B5E20; }
+.modulo.verde-escuro > h3 { background-color: #1B5E20; }
 
-.modulo.vermelhor-escuro {border: 2px solid #B71C1C;}
-.modulo.vermelhor-escuro > h3{background-color: #B71C1C;}
+.modulo.vermelho-escuro { border: 2px solid #B71C1C; }
+.modulo.vermelho-escuro > h3 { background-color: #B71C1C; }
 
-.modulo.azul-escuro {border: 2px solid #0D47A1;}
-.modulo.azul-escuro > h3{background-color: #0D47A1;}
+.modulo.azul-escuro { border: 2px solid #0D47A1; }
+.modulo.azul-escuro > h3 { background-color: #0D47A1; }
 
-.modulo.roxo-escuro {border: 2px solid #4A148C;}
-.modulo.roxo-escuro > h3{background-color: #4A148C;}
+.modulo.roxo-escuro { border: 2px solid #4A148C; }
+.modulo.roxo-escuro > h3 { background-color: #4A148C; }
 
-.modulo.laranja-escuro {border: 2px solid #E65527;}
-.modulo.laranja-escuro > h3{background-color: #E65527;}
+.modulo.laranja-escuro { border: 2px solid #E65527; }
+.modulo.laranja-escuro > h3 { background-color: #E65527; }
 
-p.divisao{
+p.divisao {
     margin-bottom: 0px;
     font-weight: bold;
 }
 
-hr{
+hr {
     margin-top: 0px;
 }
 
@@ -157,6 +157,7 @@ hr{
     align-items: center;
     background-color: #555;
 }
+
 .navegacao > a {
     text-decoration: none;
     color: #FFF;
@@ -165,4 +166,16 @@ hr{
     background-color: #2196f3;
     padding: 5px 10px;
     margin-right: 10px;
+}
+
+.navegacao > a.verde { background-color: #4CAF50; }
+.navegacao > a.vermelho { background-color: #F44336; }
+
+span.usuario {
+    flex-grow: 1;
+    justify-self: flex-start;
+    color: #EEE;
+    padding-left: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
 }

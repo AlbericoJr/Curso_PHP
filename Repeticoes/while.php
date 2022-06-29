@@ -1,4 +1,4 @@
-<div class="titulo">While / Do While</div>
+<div class="titulo">While/Do While</div>
 
 <?php
 const VALOR_LIMITE = 5;
@@ -10,10 +10,10 @@ while($contador < VALOR_LIMITE) {
 }
 
 $contador = 100;
-do{
+do {
     echo "do-while $contador <br>";
     $contador++;
-}while($contador < VALOR_LIMITE);
+} while($contador < VALOR_LIMITE);
 
 $contador = 0;
 while(true) {

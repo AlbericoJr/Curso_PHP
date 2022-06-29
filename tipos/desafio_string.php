@@ -2,12 +2,12 @@
 
 <?php
 
+// Enunciado:
+// Avaliando os métodos da documentação da string, 
+// qual o métodos que a posicao do texto 'abc' 
+// na string '!AbcaBcabc' retorne 1?
 
-//Enunciado:
-//Avaliando os métodos da documentação da String, quais o métodos que a posição do texto 'abc' na string '!AbcaBcabC' retorne 1?
+echo strpos('!AbcaBcabc', 'abc') . '<br>';
+echo stripos('!AbcaBcabc', 'abc') . '<br>';
 
-
-echo strpos('!AbcaBcabC', 'abc') . '<br>';
-echo stripos('!AbcaBcabC', 'abc') . '<br>';
-
-echo strpos(strtolower('!AbcaBcabC'), strtolower('abc'));
+echo strpos(strtolower('!AbcaBcabc'), strtolower('ABC'));

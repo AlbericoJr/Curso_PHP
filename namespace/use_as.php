@@ -10,26 +10,26 @@ function soma($a, $b) {
     return $a . $b; // Eu sei!!!
 }
 
-class Classe{
+class Classe {
     public $var;
 
-    function func(){
-        echo __NAMESPACE__ . '->' .
-            __CLASS__ . '->' . __METHOD__ . '<br>';
+    function func() {
+        echo __NAMESPACE__ . ' -> ' . 
+            __CLASS__ . ' -> ' . __METHOD__ . '<br>';
     }
 }
 
 echo \Nome\Bem\Grande\constante . '<br>';
 
-use const Nome\Bem\Grande\constante;
-echo constante .'<br>';
+use const \Nome\Bem\Grande\constante;
+echo constante . '<br>';
 
 use Nome\Bem\Grande as ctx;
 
 echo soma(1, 2) . '<br>';
 echo ctx\soma(1, 2) . '<br>';
 
-//use function Nome\Bem\Grande\soma;
+// use function Nome\Bem\Grande\soma;
 use function Nome\Bem\Grande\soma as somaReal;
 echo somaReal(100, 212) . '<br>';
 
@@ -42,6 +42,6 @@ $b->func();
 $c = new ctx\Classe();
 $c->func();
 
-use Nome\Bem\Grande\Classe as D;
+use \Nome\Bem\Grande\Classe as D;
 $d = new D();
 $d->func();

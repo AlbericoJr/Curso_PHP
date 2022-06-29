@@ -1,9 +1,9 @@
-<div class="titulo">Include em Função</div>
+<div class="titulo">Include Função</div>
 
 <?php
-echo 'Caregando: include_funcao<br>';
+echo 'Carregando: include_funcao<br>';
 
-function carregarArquivo(){
+function carregarArquivo() {
     include('include_arquivo.php');
 
     echo $variavel . '<br>';
@@ -11,9 +11,9 @@ function carregarArquivo(){
 }
 
 echo 'Novamente no arquivo include_funcao<br>';
-//echo soma(1, 8) . '!<br>';
+// echo soma(1, 8) . '!<br>';
 carregarArquivo();
 
 echo "Variável = '{$variavel}'.";
-//var_dump($variavel);
-echo '<br>' . soma(3,8);
+// var_dump($variavel);
+echo '<br>' . soma(3, 8);

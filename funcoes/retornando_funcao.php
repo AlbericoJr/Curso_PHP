@@ -1,12 +1,12 @@
-<div class="titulo">Retornando uma Função</div>
+<div class="titulo">Retornando Função</div>
 
 <?php
 function soma($a) {
+    // algoritmo (30s)
     return function($b) use ($a) {
-        return $a + $b;
+        return $a + $b; // 3s
     };
 }
-
 
 echo soma(13)(3);
 

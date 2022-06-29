@@ -9,7 +9,7 @@ $meses = array(
     "Maio",
     "Junho",
     "Julho",
-    "Agosto", 
+    "Agosto",
     "Setembro",
     "Outubro",
     "Novembro",
@@ -18,3 +18,4 @@ $meses = array(
 
 print_r($meses);
 echo '<br>' . $meses[5];
+echo '<br>' . $meses[12];
