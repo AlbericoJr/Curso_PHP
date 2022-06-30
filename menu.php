@@ -7,6 +7,7 @@
             <li><a href="exercicio.php?dir=api&file=escrever_arquivo">Escrevendo Arquivos</a></li>
             <li><a href="exercicio.php?dir=api&file=ler_arquivo">Lendo Arquivos</a></li>
             <li><a href="exercicio.php?dir=api&file=upload">Upload de Arquivos</a></li>
+            <li><a href="exercicio.php?dir=api&file=download">Download de Arquivos</a></li>
         </ul>
     </div>
     <div class="modulo vermelho">
